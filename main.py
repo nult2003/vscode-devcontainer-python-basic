@@ -1,0 +1,1 @@
+print("hello workspace in the devcontainer")
